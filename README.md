@@ -100,7 +100,7 @@ streamlit run app.py
 
 Experience the live application deployed on Streamlit Cloud:
 
-🔗 Bankism AI Live App
+🔗 Bankism AI Live App : https://bankism-firewall-bnunjmmpnr79mxxsnv6wbg.streamlit.app/
 
 📝 License
 
